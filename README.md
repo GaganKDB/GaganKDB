@@ -11,7 +11,7 @@
 
 Email: gaganpratapsinghsengar2911@gmail.com
 
-LinkedIn: https://github.com/GaganKDB
+LinkedIn: https://www.linkedin.com/in/gagan-pratap-singh2911/
 
 Leetcode: https://leetcode.com/u/kdb_2901/
 
