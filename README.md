@@ -1,5 +1,5 @@
-👋 Hi, I’m Gagan Pratap Singh Sengar (@GaganKDB)
-💻 Aspiring Software Engineer | Problem Solver | Backend Developer
+👋 Hi, I’m Gagan Pratap Singh  (@GaganKDB)
+💻 Aspiring Software Engineer | Problem Solver | Backend Developer | Final year Student NIT H 2021 Batch
 
 👀 I’m interested in Software Development, Backend Engineering, and Problem-Solving
 
