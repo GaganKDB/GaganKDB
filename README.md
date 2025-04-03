@@ -11,9 +11,9 @@
 
 Email: gaganpratapsinghsengar2911@gmail.com
 
-LinkedIn: linkedin.com/in/gagankdb
+LinkedIn: https://github.com/GaganKDB
 
-GitHub: github.com/GaganKDB
+Leetcode: https://leetcode.com/u/kdb_2901/
 
 😄 Pronouns: He/Him
 
